@@ -1,0 +1,1 @@
+now i want to look over some of the data before deciding how to proceed. give me python code to load all the games in my games table where 1) the SEASON_ID value does not begin with 1, 3, or 5; 2) remove any records where the team_id value is not in my list of NBA team ids ( a list of the NBA team ids can be found in my database "teams" table's "id" column).
